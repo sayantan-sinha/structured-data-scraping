@@ -184,5 +184,3 @@ if __name__ == '__main__':
 
 
     save_events(event_meta, 'Insider')
-
-# https://hackingandslacking.com/scrape-structured-data-with-python-and-extruct-ee1305493307
