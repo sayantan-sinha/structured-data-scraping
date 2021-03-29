@@ -184,5 +184,4 @@ if __name__ == '__main__':
         event_meta.append(card)
 
     save_events(event_meta, 'Naadyog')
-
-# https://hackingandslacking.com/scrape-structured-data-with-python-and-extruct-ee1305493307
+    
